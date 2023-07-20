@@ -1,3 +1,6 @@
+Description:
+Alan AI is an Application for processing and recognizing real world voice commands using Artificial Intelligence to
+read out the news of any Category while interacting with the users.
 
 Screenshots:
 
