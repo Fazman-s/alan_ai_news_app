@@ -1,3 +1,14 @@
+
+Screenshots:
+
+![image](https://github.com/Fazman-s/alan_ai_news_app/assets/79039776/bf38fe58-acd2-4d3d-980c-a2867152b693)
+
+
+![image](https://github.com/Fazman-s/alan_ai_news_app/assets/79039776/7ea9c3bd-c3bd-49f2-84f9-78c049e8b611)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +79,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
