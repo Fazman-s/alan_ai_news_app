@@ -5,8 +5,11 @@ read out the news of any Category while interacting with the users.
 
 Screenshots:
 
+giving Voice commands
+
 ![image](https://github.com/Fazman-s/alan_ai_news_app/assets/79039776/bf38fe58-acd2-4d3d-980c-a2867152b693)
 
+Result
 
 ![image](https://github.com/Fazman-s/alan_ai_news_app/assets/79039776/7ea9c3bd-c3bd-49f2-84f9-78c049e8b611)
 
